@@ -1,4 +1,4 @@
-## :exclamation: A Small personal WeekEnd Project POC form my side. Completely Free and Open Source. Doesn't belong to my Company's Asset!
+## :exclamation: Another Small personal Project POC form my side. Completely Free and Open Source. Doesn't belong to my Company's Asset!
 
 ### Main Idea: Dynamic Evasion
 
