@@ -2,6 +2,8 @@
 
 ### Main Idea: Dynamic Evasion
 
+A Windows _`stager-cum-PELoader`_ focusing ***Dynamic EDR Evasion***, when Operator wants to Know the the Underlying functions Hooks and then craft Implant based on the previous condition and load that in-memory using this PELoader.
+
 ![image](https://user-images.githubusercontent.com/61424547/218156540-e0b6ee2b-e478-49a2-88b7-b8ef805c63ff.png)
 
 Actually this image made me to do this Project. (Thanks to [@matterpreter](https://twitter.com/matterpreter))
